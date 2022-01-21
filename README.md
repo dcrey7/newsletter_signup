@@ -6,14 +6,14 @@ website will be available when the mailchimpapi is enabled, will get a success p
 
 - https://thawing-mesa-56139.herokuapp.com/
 
-- Landing page
+- <h1>Landing page</h1>
 <img src ="web/page1.PNG">
 
-- Success page
+- <h1>Success page</h1>
 <img src ="web/page3.PNG">
 
-- Error page
+- <h1>Error page</h1>
 <img src ="web/page2.PNG">
 
-- mailchimp API maillist
+- <h1>mailchimp API maillist</h1>
 <img src ="web/page4.PNG">
